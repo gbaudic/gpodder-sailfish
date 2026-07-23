@@ -250,8 +250,13 @@
         <translation>Импорт файла</translation>
     </message>
     <message>
+        <location filename="../qml/ImportOPML.qml" line="64"/>
+        <source>Filename, stored in Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../qml/ImportOPML.qml" line="65"/>
-        <source>Enter filname</source>
+        <source>Enter filename</source>
         <translation>Введите имя файла</translation>
     </message>
 </context>
